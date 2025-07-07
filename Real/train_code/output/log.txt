@@ -1,0 +1,50 @@
+2025-04-19 20:43:20,751 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-04-19 20:56:13,626 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-04-19 20:59:15,416 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-04-19 21:00:17,041 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-04-19 21:02:12,866 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-04-19 21:06:20,618 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-04-19 21:07:28,307 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-04-19 21:14:36,421 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-05-11 22:06:53,504 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-05-12 21:23:24,813 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-05-14 21:49:48,189 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-05-15 22:43:07,828 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-05-16 19:25:27,699 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-05-19 20:05:06,154 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-06-11 21:22:38,499 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-06-11 21:31:43,132 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-06-11 21:34:34,547 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-06-11 21:39:17,400 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-06-11 21:42:12,524 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-06-11 21:45:43,656 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-06-11 21:50:16,840 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-06-11 21:52:34,371 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-06-11 21:55:44,163 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-06-12 01:02:26,545 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
+2025-06-16 09:06:19,569 - INFO: Learning rate:0.0004, batch_size:1, seed:42.
+
